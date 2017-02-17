@@ -144,6 +144,10 @@ extensions:
   version: 0bbf2a2ac3
   md5: 1df4aebf1cb24e7cf369b3af357106fc
   klass: XhprofPeclRecipe
+- name: geoip
+  version: 1.0.8
+  md5: 65263ac6d1c335f22ce818b3253912a5
+  klass: GeoipRecipe
 
 #Oracle client stuff. Not included unless libs are present
 - name: oci8
