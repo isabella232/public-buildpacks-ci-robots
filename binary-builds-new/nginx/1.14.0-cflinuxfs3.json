@@ -1,0 +1,1 @@
+{"tracker_story_id":159007391,"version":"1.14.0","source":{"url":"http://nginx.org/download/nginx-1.14.0.tar.gz"},"source_pgp":"not yet implemented","sha256":"dbce5bbe36d4370f876ecf50484c58300539800df0d192fbd8c94b2cd2918268","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx-1.14.0-linux-x64-cflinuxfs3-dbce5bbe.tgz"}
